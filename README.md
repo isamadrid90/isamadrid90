@@ -8,9 +8,9 @@ I´m Isa from Madrid, living in Sunny Barcelona 😎 I have two rescued greyhoun
 - 🌸 I like photografy and sewing, you can check @repanxis on insta to see the things that I made for my dogs
 - 🌱 I’m currently learning to play ukelele
 
-![Twitter](https://img.shields.io/badge/isabeliita90-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Instagram](https://img.shields.io/badge/isabeliita90-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Instagram](https://img.shields.io/badge/repanxis-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+[![Twitter](https://img.shields.io/badge/isabeliita90-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/isabeliita90)[![Instagram](https://img.shields.io/badge/isabeliita90-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isabeliita90)
+[![Instagram](https://img.shields.io/badge/repanxis-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/repanxis)
 
 --------------------
 

@@ -13,6 +13,7 @@ I´m Isa from Madrid, living in Sunny Barcelona 😎 I have two rescued greyhoun
 ![Instagram](https://img.shields.io/badge/repanxis-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 --------------------
+
 ### What I do? 👩‍💻
 
 I've been working as dev full time since more than 7 years ago and I absolutly love it. I've wear different hats, sometime fronted, sometimes backend, sometimes fullstack but I my preference is always backend, I've used different stacks, mainly php+symfony but, currently, I'm using kotlin+spring and I really enjoy it.
@@ -26,6 +27,7 @@ On a daily basis I work on Pair Programming and I prefer to do everything with T
 --------------------
 
 ## What I use? 🛠️
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
@@ -43,9 +45,16 @@ On a daily basis I work on Pair Programming and I prefer to do everything with T
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-Stay tunned for the updates!
+-----------------
 
 
+### Where have I participated? 🗣️
+
+| Testing                                                                        | Microservices     | Workshops          | On boarding        |
+| :---:                                                                          |    :----:         |  :---:            |  :---:              |
+| [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s) | [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk) |  [International Women Day 2019](https://blog.gdg.es/2019/03/iwd-19-wtm-barcelona.html) |  [Episode 13 @ Todo esta mal](https://todoestamal.com/episode/13)  |
+| [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw)           |               |           |            |
+| [TDD & BDD @ PEUM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnj7qJzbD0AhU8hf0HHaZGB5kQ3e4CegQIBxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvbSjMgiF6rA&usg=AOvVaw1bqV40xcDDCchSKcwBlMX_)
 <!--
 **isamadrid90/isamadrid90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

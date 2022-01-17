@@ -26,6 +26,13 @@ On a daily basis I work on Pair Programming and I prefer to do everything with T
 
 --------------------
 
+### Special mention 🚨
+
+I did a course with Codely, released on January 5th 2022, it's in spanish but I dedicated a lot of effort. The purpose of this course is to create a first app in Kotlin without any framework but with unit testing, the main focus is starting to know the development environment
+[Introduction to Kotlin: Your first app](https://pro.codely.tv/library/introduccion-a-kotlin-tu-primera-app-174088/381069/path/)
+
+--------------------
+
 ## What I use? 🛠️
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)

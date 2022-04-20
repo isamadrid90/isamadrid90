@@ -7,6 +7,7 @@ I´m Isa from Madrid, living in Sunny Barcelona 😎 I have two rescued greyhoun
 - ✈️ I love traveling, I lived 🇬🇷 and visited 🇬🇧🇺🇸🇫🇷🇿🇦🇳🇦🇧🇼🇿🇼🇮🇹🇹🇷🇭🇺
 - 🌸 I like photografy and sewing, you can check @repanxis on insta to see the things that I made for my dogs
 - 🌱 I’m currently learning to play ukelele
+- 👩‍🏫 I help other women to find their place in tech [Step4ward](https://step4ward.notion.site/step4ward/Bienvenidas-a-Step4ward-2b133826a10a4fc6a5bc7686605f6357)
 
 
 [![Twitter](https://img.shields.io/badge/isabeliita90-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/isabeliita90)[![Instagram](https://img.shields.io/badge/isabeliita90-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isabeliita90)
@@ -54,25 +55,22 @@ I did a course with Codely, released on January 5th 2022, it's in spanish but I 
 
 -----------------
 
+### Courses 🎓
+* [Introduction to Kotlin: Your first app](https://pro.codely.tv/library/introduccion-a-kotlin-tu-primera-app-174088/381069/path/)
 
-### Where have I participated? 🗣️
+### Public Speaking 🗣️
+* [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s)
+* [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw)   
+* [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk)
 
-| Testing                                                                        | Microservices     | Workshops          | On boarding        |
-| :---:                                                                          |    :----:         |  :---:            |  :---:              |
-| [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s) | [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk) |  [International Women Day 2019](https://blog.gdg.es/2019/03/iwd-19-wtm-barcelona.html) |  [Episode 13 @ Todo esta mal](https://todoestamal.com/episode/13)  |
-| [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw)           |               |           |            |
-| [TDD & BDD @ PEUM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnj7qJzbD0AhU8hf0HHaZGB5kQ3e4CegQIBxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvbSjMgiF6rA&usg=AOvVaw1bqV40xcDDCchSKcwBlMX_)
-<!--
-**isamadrid90/isamadrid90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Podcasts 🎙️
+ * [Onboarding - Episode 13 @ Todo esta mal](https://todoestamal.com/episode/13)
+ * [TDD & BDD @ PEUM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnj7qJzbD0AhU8hf0HHaZGB5kQ3e4CegQIBxAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvbSjMgiF6rA&usg=AOvVaw1bqV40xcDDCchSKcwBlMX_)
+ 
+ ### Posts 📝
+ 
+ * [The Witcher, los tests y Kotling](https://isagarrido.notion.site/The-Witcher-los-test-y-Kotlin-26479afbb05d42d2b38144ae10a4516d) 🇪🇸
+ * [Mutation testing in Kotlin](https://medium.com/p/a8834771e85e) 🇬🇧
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Twitter threads 🧵
+[isabeliita90](https://typefully.com/isabeliita90)

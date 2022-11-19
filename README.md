@@ -57,11 +57,15 @@ I did a course with Codely, released on January 5th 2022, it's in spanish but I 
 
 ### Courses 🎓
 * [Introduction to Kotlin: Your first app](https://pro.codely.tv/library/introduccion-a-kotlin-tu-primera-app-174088/381069/path/)
+* [API HTTP in Kotlin applying Hexagonal Architecture principles](https://pro.codely.com/library/api-http-en-kotlin-aplicando-arquitectura-hexagonal-189116/)
 
 ### Public Speaking 🗣️
-* [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s)
-* [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw)   
-* [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk)
+* [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s) 🇪🇸
+* [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw) 🇪🇸
+* [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk) 🇪🇸
+* [Mutation testing @ BCNJUG](https://youtu.be/p61tLR3Yu_o?t=2186) 🇪🇸
+* [Mutation testing in Kotlin @ Twin Cities Kotlin Users](https://www.youtube.com/watch?v=C14rCTC0KmI)  🇬🇧
+* [Mutating a Symfony Project @ SymfonyCon Disneyland (November 18th)](https://live.symfony.com/2022-paris-con/schedule#mutating-a-symfony-project) 🇬🇧
 
 ### Podcasts 🎙️
  * [Onboarding - Episode 13 @ Todo esta mal](https://todoestamal.com/episode/13)

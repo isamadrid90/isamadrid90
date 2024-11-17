@@ -21,18 +21,9 @@ I've been working as dev full time since more than 10 years ago and I absolutly 
 
 I've worked in very different projects, from Authorization&User management for [letgo](https://en.wikipedia.org/wiki/Letgo) to the website and store for [BQ](https://en.wikipedia.org/wiki/BQ_(company))
 
-I started using hexagonal architecture some years ago and it's really interesting, a lot of interesting discussions come from that place, also, I worked with Domain Driven Design, Event Driven Architecture, Event Sourcing and CQRS and I was part of one of the teams that develop and mantain several microservices with sync and asyn communication
+I started using hexagonal architecture some years ago and it's really interesting, a lot of interesting discussions come from that place, also, I worked with Domain Driven Design, Event Driven Architecture, Event Sourcing, and CQRS and I was part of one of the teams that develop and maintain several microservices with sync and async communication
 
-On a daily basis I work on Pair Programming and I prefer to do everything with TDD
-
---------------------
-
-### Special mention 🚨
-
-I did a course with Codely, released on January 5th 2022, it's in spanish but I dedicated a lot of effort. The purpose of this course is to create a first app in Kotlin without any framework but with unit testing, the main focus is starting to know the development environment
-[Introduction to Kotlin: Your first app](https://pro.codely.com/library/introduccion-a-kotlin-tu-primera-app-174088/register/381069/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxNDk2NzAxLCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6MzgxMDY5LCJyb2xlIjo1LCJpYXQiOjE3MDI1NDAzMDJ9.4VsVUvkdDqBw8BzQX0XYBaqRkgCXSeMiOW_0yNDop60)
-
-As that first course had a really good welcome I prepared a second course released on November 2022, also in spanish, about creating an HTTP API with Hexagonal Architecture, Kotlin and Springboot [API HTTP en Kotlin aplicando Arquitectura Hexagonal](https://pro.codely.com/library/api-http-en-kotlin-aplicando-arquitectura-hexagonal-189116/register/456277/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxNDk2NzAxLCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6NDU2Mjc3LCJyb2xlIjo1LCJpYXQiOjE3MDI1NDAyMTV9.zUxjP-5_A-2-AtvYEud5djDHELB2E2slYePrfHYAyjo)
+On a daily basis I work following Extreme Programming techniques like TDD and Pair programming
 
 --------------------
 
@@ -72,16 +63,19 @@ As that first course had a really good welcome I prepared a second course releas
 
 ### Public Speaking 🗣️
 
-- [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s) 🇪🇸
-- [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw) 🇪🇸
-- [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk) 🇪🇸
-- [Mutation testing @ BCNJUG](https://youtu.be/p61tLR3Yu_o?t=2186) 🇪🇸
-- [Mutation testing in Kotlin @ Twin Cities Kotlin Users](https://www.youtube.com/watch?v=C14rCTC0KmI)  🇬🇧
-- La importancia de sentirse acompañada @ Software Crafters Barcelona 22 🇪🇸
-- [Mutating a Symfony Project @ SymfonyCon Disneyland (November 18th)](https://live.symfony.com/2022-paris-con/schedule#mutating-a-symfony-project) 🇬🇧
+- [A modern testing tale @ BuildStuff] 🇬🇧
+- [Mutation testing workshop @ Open South Code](https://www.opensouthcode.org/conferences/opensouthcode2024/program/proposals/760)🇪🇸
+- [Mutation testing workshop @ Nerdearla Chile](https://www.youtube.com/watch?v=c-W8UjkTjoU)🇪🇸
+- [Quiero mentorizar y ¿ahora qué? @ Software Crafters Barcelona 23](https://softwarecrafters.barcelona/) 🇪🇸
+- [What could possibly go wrong @ Devops Bcn 2023](https://www.youtube.com/watch?v=1iEQjH_CjWQ&list=PLbuRjh58AAYSSdqQUDsHC8nwFUd5fsLE-&index=7) 🇬🇧
 - [Mutating a Symfony Project @ SymfonyWorld Winter 🇬🇧](https://live.symfony.com/2022-world-winter/)
-- [Devops Bcn 2023](https://devops.barcelona/talks) 🇬🇧
-- [Quiero mentorizar y ¿ahora qué? @  Software Crafters Barcelona 23](https://softwarecrafters.barcelona/) 🇪🇸
+- [Mutating a Symfony Project @ SymfonyCon Disneyland (November 18th)](https://live.symfony.com/2022-paris-con/schedule#mutating-a-symfony-project) 🇬🇧
+- La importancia de sentirse acompañada @ Software Crafters Barcelona 22 🇪🇸
+- [Mutation testing in Kotlin @ Twin Cities Kotlin Users](https://www.youtube.com/watch?v=C14rCTC0KmI)  🇬🇧
+- [Mutation testing @ BCNJUG](https://youtu.be/p61tLR3Yu_o?t=2186) 🇪🇸
+- [Otra charla sobre microservicios @ Bilbostack](https://bilbostack.com/isabel-garrido#talk) 🇪🇸
+- [Test doubles @ PHPmad](https://www.youtube.com/watch?v=kWMru8k5gOw) 🇪🇸
+- [Test doubles @ Pulpocon19](https://www.youtube.com/watch?v=kx08f0kglr4&t=19s) 🇪🇸
 
 ### Podcasts 🎙️
 

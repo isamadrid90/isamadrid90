@@ -63,7 +63,7 @@ On a daily basis I work following Extreme Programming techniques like TDD and Pa
 
 ### Public Speaking 🗣️
 
-- [A modern testing tale @ BuildStuff] 🇬🇧 (https://www.youtube.com/watch?v=L5YVqvC4ofU)
+- [A modern testing tale @ BuildStuff 🇬🇧](https://www.youtube.com/watch?v=L5YVqvC4ofU)
 - [Mutation testing workshop @ Open South Code](https://www.opensouthcode.org/conferences/opensouthcode2024/program/proposals/760)🇪🇸
 - [Mutation testing workshop @ Nerdearla Chile](https://www.youtube.com/watch?v=c-W8UjkTjoU)🇪🇸
 - [Quiero mentorizar y ¿ahora qué? @ Software Crafters Barcelona 23](https://softwarecrafters.barcelona/) 🇪🇸

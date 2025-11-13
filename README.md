@@ -88,8 +88,8 @@ On a daily basis I work following Extreme Programming techniques like TDD and Pa
 
 ### Posts 📝
 
-- [The Witcher, los tests y Kotlin](https://www.notion.so/The-Witcher-los-test-y-Kotlin-26479afbb05d42d2b38144ae10a4516d?pvs=21) 🇪🇸
-- [Testing, QA, TDD ¿es todo lo mismo?](https://www.notion.so/Testing-QA-TDD-es-todo-lo-mismo-20ce842eed6c41109af15275ef08c438?pvs=21) 🇪🇸
+- [Featured content author in Java Annotated Monthly Febrary 2025](https://blog.jetbrains.com/idea/2025/02/java-annotated-monthly-february-2025/)
+- [Working with Junie in legacy code included in Java Annotated Monthly AI section](https://blog.jetbrains.com/idea/2025/06/java-annotated-monthly-june-2025/#ai)
 - [Medium blog](https://medium.com/@isa.madrid90) 🇬🇧
 - [HashNode blog](https://isabeliita90.hashnode.dev/) 🇬🇧
 

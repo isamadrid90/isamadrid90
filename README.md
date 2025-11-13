@@ -47,6 +47,7 @@ On a daily basis I work following Extreme Programming techniques like TDD and Pa
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 -----------------
+## Content and events
 
 ### Open source 💻
 
